@@ -31,7 +31,7 @@ For more details on attributions and licenses please look into the files of the 
 | SNAZZ | Jihoon Kim | rockbox-y1 | Scale fonts and images, adjust list padding |
 | SNAZZ2 | Jihoon Kim | rockbox-y1 | Scale fonts and images, adjust list padding |
 | SNAZZ3 | Vera B | rockbox-y1 | Scale fonts and images, adjust list padding |
-| SNAZZx90 | DillMillz |  [James Kendall](https://github.com/SHMAUS-Carter-collab) & rockbox-y1 | Remove unsupported features, Scale fonts and images, adjust list padding |
+| SNAZZx90 | DillMillz |  [James Kendall](https://github.com/SHMAUS-Carter) & rockbox-y1 | Remove unsupported features, Scale fonts and images, adjust list padding |
 | Snowoasis_Y1 | [u/CarlosPixel_](https://www.reddit.com/user/CarlosPixel_) | - | Original cassette theme with great CJK (and more) support |
 | Snowoasis_Y1_DARK | [u/CarlosPixel_](https://www.reddit.com/user/CarlosPixel_) | - | Original cassette theme dark with great CJK (and more) support |
 | Snowoasis_Y1_Sports | [u/CarlosPixel_](https://www.reddit.com/user/CarlosPixel_) | - | Original cassette theme based on Sony Walkman Sport with great CJK (and more) support |
