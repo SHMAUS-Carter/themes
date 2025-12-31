@@ -1,5 +1,6 @@
 #__SNAZx90
-#__Modified theme by DillMillz
+#__Modified theme by James Kendall fixed battery display
+#__based on Modified theme by DillMillz
 #__Based on SNAZZ2 by Jihoon Kim — SPAZZ by Chuck Lardo — SNAZZY by Phil Graves
 #__Licence__CC-BY-SA 4.0
 #__2025
@@ -78,7 +79,7 @@
 #
 #__Battery/Vol Text
 %Vl(bat,-123,15,108,24,3)
-%ac%t(8)%xd(P) %bl%%%Vs(invert);%ac%?if(%bt, =, -1)<%t(0)|%t(8)%xd(P)  %bt%Vs(invert)>
+%ac%t(8)%xd(P) %bl%%%Vs(invert)
 #
 %Vl(batCharge,-123,15,108,24,3)
 %ac%t(8)CHARGING%Vs(invert);%t(8)%ac%xd(P) %bl%%%Vs(invert)
